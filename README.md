@@ -1,5 +1,5 @@
 
-### Hi there, I'm [Yaoyao](https://yyliu.net)! 👋
+### Hey there, I'm [Yaoyao](https://yyliu.net)! 👋
 
 My research lies in few-shot learning and incremental learning.
 
