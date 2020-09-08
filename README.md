@@ -1,3 +1,3 @@
 ### Hey there, I'm Yaoyao! 👋
 
-Welcome to my GitHub. If you have any questions on my projects, feel free to [send me an email](mailto:yaoyao.liu+github@mpi-inf.mpg.de)!
+Welcome to my GitHub. If you have any questions on my projects, feel free to [send me an email](mailto:yaoyao.liu+github@mpi-inf.mpg.de).
